@@ -71,3 +71,16 @@ hr {
     border-color: brown;
 
 }
+
+footer a {
+    text-decoration: none;
+    color: #0d0b44;
+    font-style: italic;
+    font-weight: 523;
+    font-size: large;
+}
+
+footer a:hover {
+    background-color: brown;
+    color:antiquewhite;
+}
