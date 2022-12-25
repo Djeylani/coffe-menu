@@ -1,2 +1,3 @@
-# coffe-menu/index.html
+# coffe-menu
+# index.html
 # css/styles.css
